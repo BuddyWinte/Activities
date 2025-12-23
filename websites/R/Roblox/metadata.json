@@ -17,16 +17,20 @@
     {
       "name": "Kyrie",
       "id": "368399721494216706"
+    },
+    {
+      "name": "BuddyWinte",
+      "id": "1357429661834936510"
     }
   ],
   "service": "Roblox",
   "description": {
-    "en": "Roblox’s mission is to bring the world together through play.",
-    "es": "La misión de Roblox es unir al mundo por medio del juego.",
-    "nl": "De missie van Roblox is om de wereld samen te brengen door te spelen.",
-    "ro": "Misiunea Roblox-ului este de a aduce lumea mai aproape să se joace împreună.",
-    "vi": "Nhiệm vụ của Roblox là đem thế giới lại gần nhau qua trò chơi.",
-    "zh": "Roblox的使命是通过游戏将世界融合在一起。"
+    "en": "Roblox is an immersive gaming and creation platform that offers people millions of ways to be together, inviting its community to explore, create, and share endless unique experiences.",
+    "es": "Roblox es una plataforma de juegos y creación inmersiva que ofrece a las personas millones de maneras de interactuar, invitando a su comunidad a explorar, crear y compartir un sinfín de experiencias únicas.",
+    "nl": "Roblox is een meeslepend gaming- en creatieplatform dat mensen miljoenen manieren biedt om samen te zijn en de community uitnodigt om eindeloze unieke ervaringen te verkennen, te creëren en te delen.",
+    "ro": "O Roblox si jekh imerzivno khelipe thaj kreaciaki platforma savi del e manušenge milionura droma te aven khetane, akharel peski komuniteta te roden, te keren thaj te ulaven bi agor unikalune eksperiencije.",
+    "vi": "Roblox là một nền tảng trò chơi và sáng tạo sống động, cung cấp cho người dùng hàng triệu cách để kết nối với nhau, khuyến khích cộng đồng khám phá, sáng tạo và chia sẻ vô số trải nghiệm độc đáo.",
+    "zh": "Roblox 是一個沉浸式遊戲和創作平台，為人們提供了數百萬種互動方式，邀請其社群成員探索、創造和分享無窮無盡的獨特體驗。"
   },
   "url": [
     "www.roblox.com",
@@ -36,7 +40,7 @@
     "devforum.roblox.com"
   ],
   "regExp": "^https?[:][/][/]((www|web|create|devforum)[.]roblox[.]com|rbx[.]com)[/]",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "logo": "https://cdn.rcd.gg/PreMiD/websites/R/Roblox/assets/logo.png",
   "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/R/Roblox/assets/thumbnail.png",
   "color": "#1b1d1e",
